@@ -1,0 +1,30 @@
+[
+  {
+    "username": "john",
+    "timestamp": "2024-06-20T15:32:17.927Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hi"
+      },
+      {
+        "role": "system",
+        "content": "Hello! How can I assist you today?"
+      }
+    ]
+  },
+  {
+    "username": "john",
+    "timestamp": "2024-06-20T15:32:34.569Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "I'm good :)"
+      },
+      {
+        "role": "system",
+        "content": "That's great to hear! How can I assist you today?"
+      }
+    ]
+  }
+]

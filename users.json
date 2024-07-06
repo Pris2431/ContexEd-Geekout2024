@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "username": "john",
+    "password": "$2b$10$SUOzJMIjpcRTrMZdHEilBOPMxxMx3IJAA8/vNc3ua7ONz6fAbw94a"
+  },
+  {
+    "id": 2,
+    "username": "joe",
+    "password": "$2a$10$ipt0pBF9JaVoKrny.r8CM.3fuYsuBvNUDaE5mvnFO80GzxTM8Khva"
+  },
+  {
+    "id": 3,
+    "username": "Man",
+    "password": "$2a$10$wvDwE49APZqcDp.W0LMLXeTOXhACwIAWzcO4VyANqvgA.xTRPdfyO"
+  },
+  {
+    "id": 4,
+    "username": "JeffLearner",
+    "password": "$2a$10$JIqh92O68IAZ7HF3XjmDjuOdAunw8TG3SygW4ynnc4qcYocmOAwZ2"
+  }
+]
